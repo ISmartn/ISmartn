@@ -10,7 +10,7 @@
 ### Hi there, I'm Shashi 👋
 
 - 🌱 I’m an aspiring Computer Science enthusiast well-versed in many aspects of different domains.
-- Currently working as SOFTWARE ENGINEER INTERN
+- Currently working as SOFTWARE DEVELOPER INTERN
 - I am up for mentoring students and helping them out.
 - I'm passionate about diversity in tech and open source. 
 - I'm also interested in astro physics.
